@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/ebina4yaka/ebina4yaka/assets/55776479/ff15fcee-93ee-43e2-a2f2-80b846124062">
+[![alt設定](http://img.youtube.com/vi/cHaEJgn4HYc/0.jpg)](https://www.youtube.com/watch?v=cHaEJgn4HYc)
 
 <div width="100%">
   <img height=350 src="https://github-readme-stats.ebina4yaka.vercel.app/api?username=ebina4yaka&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
