@@ -1,4 +1,5 @@
 [![alt設定](http://img.youtube.com/vi/cHaEJgn4HYc/0.jpg)](https://www.youtube.com/watch?v=cHaEJgn4HYc)
+[![alt設定](http://img.youtube.com/vi/WoTY9BO8E5k/0.jpg)](https://www.youtube.com/watch?v=WoTY9BO8E5k)
 
 <div width="100%">
   <img height=250 src="https://github.com/ebina4yaka/ebina4yaka/assets/55776479/b56f8ec7-1004-47f6-9f2a-524bd52c9077">
